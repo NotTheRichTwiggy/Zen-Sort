@@ -1,0 +1,16 @@
+E:\My Apps\Zen Sort\bin\Release\net8.0-windows\Zen Sort.exe
+E:\My Apps\Zen Sort\bin\Release\net8.0-windows\Zen Sort.deps.json
+E:\My Apps\Zen Sort\bin\Release\net8.0-windows\Zen Sort.runtimeconfig.json
+E:\My Apps\Zen Sort\bin\Release\net8.0-windows\Zen Sort.dll
+E:\My Apps\Zen Sort\bin\Release\net8.0-windows\Zen Sort.pdb
+E:\My Apps\Zen Sort\obj\Release\net8.0-windows\Zen_Sort.Form1.resources
+E:\My Apps\Zen Sort\obj\Release\net8.0-windows\Zen Sort.csproj.GenerateResource.cache
+E:\My Apps\Zen Sort\obj\Release\net8.0-windows\Zen Sort.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Apps\Zen Sort\obj\Release\net8.0-windows\Zen Sort.AssemblyInfoInputs.cache
+E:\My Apps\Zen Sort\obj\Release\net8.0-windows\Zen Sort.AssemblyInfo.cs
+E:\My Apps\Zen Sort\obj\Release\net8.0-windows\Zen Sort.csproj.CoreCompileInputs.cache
+E:\My Apps\Zen Sort\obj\Release\net8.0-windows\Zen Sort.dll
+E:\My Apps\Zen Sort\obj\Release\net8.0-windows\refint\Zen Sort.dll
+E:\My Apps\Zen Sort\obj\Release\net8.0-windows\Zen Sort.pdb
+E:\My Apps\Zen Sort\obj\Release\net8.0-windows\Zen Sort.genruntimeconfig.cache
+E:\My Apps\Zen Sort\obj\Release\net8.0-windows\ref\Zen Sort.dll
